@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827969778658",
+    "project_id": "bloc-demo-f96be",
+    "storage_bucket": "bloc-demo-f96be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827969778658:android:af8c3648e41c6017013fbb",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827969778658-sfs68njjg0f2020n5tea290uk6onfc90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPKSoC99VwdNWg4yfZD456EtEt91VMFp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827969778658-sfs68njjg0f2020n5tea290uk6onfc90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
